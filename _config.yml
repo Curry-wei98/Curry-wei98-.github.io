@@ -42,3 +42,5 @@ markdown: kramdown                         #markdown解释器
 # disqus 设置
 disqus:
   shortname: coolnameismy
+
+theme: jekyll-theme-cayman
